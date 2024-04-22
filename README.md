@@ -1,8 +1,8 @@
-Overview
+**Overview**
 
 The dataset contains contains historical information from the last campaign soliciting donations for a non-profit organization supporting veterans.
 
-Sections
+**Sections**
 
 The project is divided as following:
 
